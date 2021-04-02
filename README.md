@@ -1,6 +1,6 @@
 # Hi there, I'm Nina 👋🏾 👩🏾‍💻
 
-I'm a Senior Data Analyst who is passionate about growing and forever learning. I am a firm believer in sharing knowledge and experience with other and the importance this plays in creating awareness and opportunties for other. 
+I'm a Senior Data Analyst who is passionate about growing and forever learning. I am a firm believer in reflecting on experiences and sharing knowledge with other. Both have served me well in life and I hope to pass it forward. 
 
 - 🌱 I’m currently learning ... Data Engineering on GCP and Arabic language
 - 👯 I’m looking to collaborate on ... data science projects for social good
