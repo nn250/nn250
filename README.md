@@ -1,4 +1,4 @@
-# Hi there, I'm Nina 👋🏾 👩🏾‍💻
+# 🌊 Hi there, I'm Nina 👋
 
 I'm a Senior Data Analyst who is passionate about growing and forever learning. I am a firm believer in reflecting on experiences and sharing knowledge with other. Both have served me well in life and I hope to pass it forward. 
 
