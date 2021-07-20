@@ -1,6 +1,6 @@
 # 🌊 Hi there, I'm Nina 👋
 
-I'm a Senior Data Analyst who is passionate about personal and professional growth. I am forever learning 🤓.
+I'm a Data Scientist who is passionate about personal and professional growth. I am forever learning 🤓.
 I'm a firm believer in reflecting on ones experiences and sharing knowledge with other. Both have served me well in life and I hope to pass it forward. 
 
 - 🌱 I’m currently learning ... data engineering on GCP and classical arabic
